@@ -1,3 +1,5 @@
+⚠️ **DEPRECATED**: This project has been moved to https://github.com/acidtango/acid_swarm
+
 # swarm_init
 Docker Stack to initialize a Swarm Cluster with [Traefik](https://docs.traefik.io/) as reverse proxy
 and [Swarmpit](https://swarmpit.io/) to visualize the cluster.
